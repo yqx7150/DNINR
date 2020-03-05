@@ -4,7 +4,7 @@ Densely connected network for impulse noise removal
 This is a demo Code based on the method described in the following paper:   
 Densely connected network for impulse noise removal, Pattern Analysis and Applications, 2020.  
 Author: G. Li, X. Xu, M. Zhang, Q. Liu.      
-https://link.springer.com/article/10.1007%2Fs10044-020-00871-y
+https://link.springer.com/article/10.1007%2Fs10044-020-00871-y       
 Version : 1.0   
 The code and the algorithm are for non-comercial use only.   
 Copyright 2020, Department of Electronic Information Engineering, Nanchang University.
