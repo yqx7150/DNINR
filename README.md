@@ -11,6 +11,11 @@ Copyright 2020, Department of Electronic Information Engineering, Nanchang Unive
 
 
 
+## Network architecture of DNINR
+![](./figs/DNINR_net.png)   
+All the convolution layers are denoted as “Conv”. Batch normalization layers are denoted as “BN”. Rectified linear units are denoted as “ReLU”. “3x3x12 conv” denotes the number of filters is set to be 12 and kernel size is 3x3.
+
+
 ## Other Related Projects
   * Variable augmented neural network for decolorization and multi-exposure fusion [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S1566253517305298)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DecolorNet_FusionNet_code)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
     
